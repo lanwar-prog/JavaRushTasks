@@ -6,7 +6,7 @@ import java.util.List;
 Вместе быстрее? Ща проверим :)
 1. Разберись, что и как работает.
 2. Создай public static нить SortThread, которая в методе run отсортирует статический массив testArray используя метод sort.
-
+---
 Требования:
 1. Класс Solution должен содержать public static класс SortThread.
 2. Класс SortThread должен быть нитью.
